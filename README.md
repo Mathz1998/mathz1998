@@ -1,8 +1,8 @@
-### Oi, Eu sou o Matheus 👋
+### Oi, Eu sou o Matheus 👋🏿
 
-- 🔭 Atualmente estou trablhando em projetos pessoais
+
+- 👨🏿‍💻 Atualmente estou trablhando em projetos pessoais
 - 🌱 Estou aprendendo Python
-- 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Eu gosto de Morango
 
   <div style="display: inline_block"><br>
@@ -21,3 +21,5 @@
   <a href="https://www.linkedin.com/in/mathz1998" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![CatComputerGIF](https://github.com/Mathz1998/mathz1998/assets/142539113/fd8827cb-d43a-4006-a68c-28d1a63114d7)
