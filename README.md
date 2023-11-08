@@ -1,9 +1,11 @@
-### Oi, Eu sou o Matheus 👋🏿
+### Olá, sou o Matheus! 👋🏿
 
+👨🏿‍💻 Atualmente, estou concentrado em desenvolver projetos pessoais.
 
-- 👨🏿‍💻 Atualmente estou trablhando em projetos pessoais
-- 🌱 Estou aprendendo Python
-- ⚡ Fun fact: Eu gosto de Morango
+🌱 Estou constantemente aprendendo e aprimorando minhas habilidades em Python.
+
+⚡ Amo morango 🍓.
+
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
